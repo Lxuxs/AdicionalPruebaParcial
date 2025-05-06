@@ -1,0 +1,17 @@
+com\mycompany\evaluacion_correccion\persistencia\ControladoraPersistencia.class
+com\mycompany\evaluacion_correccion\persistencia\TurnoJpaController.class
+com\mycompany\evaluacion_correccion\igu\Turnos.class
+com\mycompany\evaluacion_correccion\logica\Turno.class
+com\mycompany\evaluacion_correccion\persistencia\exceptions\IllegalOrphanException.class
+com\mycompany\evaluacion_correccion\persistencia\exceptions\NonexistentEntityException.class
+com\mycompany\evaluacion_correccion\logica\Propietario_.class
+com\mycompany\evaluacion_correccion\logica\Controladora.class
+com\mycompany\evaluacion_correccion\logica\Propietario.class
+com\mycompany\evaluacion_correccion\logica\Vehiculo.class
+com\mycompany\evaluacion_correccion\logica\Vehiculo_.class
+com\mycompany\evaluacion_correccion\logica\Turno_.class
+com\mycompany\evaluacion_correccion\igu\Turnos$1.class
+com\mycompany\evaluacion_correccion\persistencia\VehiculoJpaController.class
+com\mycompany\evaluacion_correccion\Evaluacion_Correccion.class
+com\mycompany\evaluacion_correccion\persistencia\exceptions\PreexistingEntityException.class
+com\mycompany\evaluacion_correccion\persistencia\PropietarioJpaController.class
